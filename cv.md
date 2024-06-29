@@ -1,5 +1,5 @@
 
-# Vicktorya Kalugina
+# Victoria Kalugina
 _____________________________
 
 ### Junior Frontend Developer
